@@ -1,2 +1,3 @@
 sein:
-  value: change-dev-test-value2
+  value: 
+    hobby: netflix
